@@ -24,7 +24,7 @@ body {
 .map {
   width: 1500px;
   height: 1182px;
-  background-image: url(/images/map.jpg);
+  background-image: url(./images/map.jpg);
   margin: 0 auto;
 }
 
