@@ -1,4 +1,4 @@
-Don't change the css, it's the framework for the elements. Copy parts in index.html to alter the sight.
+Don't change the css, it's the framework for the elements. Copy parts in index.html to alter the site.
 
 We need to change the map image btw
 
